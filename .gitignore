@@ -16,6 +16,7 @@ local.properties
 .idea/misc.xml
 .idea/runConfigurations.xml
 .idea/compiler.xml
+.idea/deviceManager.xml
 .DS_Store
 /build
 /captures
